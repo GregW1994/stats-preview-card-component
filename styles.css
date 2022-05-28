@@ -139,6 +139,21 @@ h1 {
 		max-width: 500px;
 	}
 
+	.box {
+		position: relative;
+		top: 0;
+		left: 0;
+	}
+
+	.overlay {
+		width: 100%;
+		position: absolute;
+		top: 0;
+		background-color: hsla(277, 100%, 50%, 0.3);
+		border-top-right-radius: 0.7rem;
+		border-bottom-right-radius: 0.7rem;
+	}
+
 	img {
 		border-bottom-right-radius: 0;
 		border-top-left-radius: 0.7rem;
