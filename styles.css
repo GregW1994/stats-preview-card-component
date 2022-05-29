@@ -27,7 +27,7 @@ body {
 }
 
 .container {
-	min-height: 97vh; /* TO DO ZMIANY!!!! */
+	min-height: 80vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
